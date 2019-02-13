@@ -10,7 +10,7 @@
     </parent>
     <groupId>io.amoe</groupId>
     <artifactId>alibaba-consumer</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0-SNAPSHOT</version>
     <name>alibaba-consumer</name>
     <description>Demo project for Spring Boot</description>
 
@@ -49,8 +49,8 @@
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
-            <artifactId>netty-all</artifactId>
-            <version>4.1.32.Final</version>
+            <artifactId>netty</artifactId>
+            <version>4.0.0.Alpha8</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba.boot</groupId>
